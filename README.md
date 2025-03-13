@@ -8,23 +8,22 @@ If you're interested in any part of this project...
 ### Setup
 1. Clone the repository:
 
-`git clone https://github.com/nazabu/WNS-Mathematical-Simulation`
-
-2. Open it with your code editor or run the files through the terminal:
+```
+git clone https://github.com/nazabu/WNS-Mathematical-Simulation
+```
+2. Open the notebooks with your code editor at the following directory:
 
 ```
 cd WNS-Mathematical-Simulation/src
-python3 SIRP.py
 ```
 
-3. Install Poetry (if it's not already installed) and install dependencies:
+3. Install install dependencies:
 ```
-curl -sSL https://install.python-poetry.org | python3 -
-poetry install
+
 ```
 
 ### TODO:
 1. [ ] Create a dependencies file
-2. [ ] Clean up the code
-3. [ ] Explore more methods of analysis
-4. [ ] Find real-world data
+2. [x] Clean up the code (can do more)
+3. [x] Explore more methods of analysis
+4. [ ] Find real-world data (?)
